@@ -1,6 +1,5 @@
 ;; -*- lexical-binding: t -*-
 
-(require 'elsa-undercover)
 (require 'elsa-reader)
 
 (require 'elsa-test-helpers)

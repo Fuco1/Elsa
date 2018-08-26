@@ -1,3 +1,5 @@
+(require 'elsa-undercover)
+
 (defmacro elsa-test-with-buffer (initial &rest body)
   (declare (indent 1))
   `(with-temp-buffer
